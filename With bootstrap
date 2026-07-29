@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>SafeCity Criminal Intelligence Portal</title>
+<!-- Bootstrap CSS -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
+rel="stylesheet">
+<style>
+body {
+font-family: Arial, sans-serif;
+background-color: #f4f4f4;
+margin: 20px;
+}
+h1 {
+text-align: center;
+color: darkred;
+}
+h2 {
+color: #333;
+border-bottom: 2px solid darkred;
+padding-bottom: 5px;
+}
+p {
+font-size: 16px;
+}
+a {
+color: blue;
+}
+table {
+width: 100%;
+border-collapse: collapse;
+background-color: white;
+margin-top: 10px;
+}
+th {
+
+background-color: darkred;
+color: white;
+}
+th, td {
+padding: 10px;
+border: 1px solid #ccc;
+text-align: left;
+}
+img {
+display: block;
+margin: auto;
+border-radius: 10px;
+}
+.navbar {
+text-align: center;
+margin: 10px 0;
+}
+.section {
+background-color: white;
+padding: 15px;
+margin-bottom: 20px;
+border-radius: 10px;
+}
+</style>
+</head>
+<body>
+<div class="container">
+<h1>SafeCity Criminal Intelligence Portal</h1>
+<p align="center">
+<b>Integrated Intelligence and Investigation System (IIIS)</b><br>
+<i>Creating Awareness • Preventing Crime • Protecting Communities</i>
+</p>
+<hr>
+
+<img
+src="https://media.licdn.com/dms/image/v2/C4E0BAQH0PoCVe91NnQ/company-logo_200_200
+/company-logo_200_200/0/1653207265458/safecitygroup_logo?e=2147483647&v=beta&t=HGI
+b_xgmz1pHV6yO-7SnObIAaWG7UgAMuUNUsHxTEuw" width="100%" height="300">
+<hr>
+<div class="navbar">
+<a href="#home">Home</a> |
+<a href="#awareness">Crime Awareness</a> |
+<a href="#tips">Safety Tips</a> |
+<a href="#campaigns">Campaigns</a> |
+<a href="#alerts">Public Alerts</a> |
+<a href="#risk">Risk Meter</a> |
+<a href="#faq">FAQs</a> |
+<a href="#contact">Contact</a>
+</div>
+<hr>
+<div class="section">
+<h2 id="home">Welcome</h2>
+<p>
+Welcome to the <strong>SafeCity Criminal Intelligence Portal.</strong>
+Our mission is to <mark>spread crime awareness</mark> and help citizens
+stay informed about common crime trends through safety tips,
+public alerts and awareness campaigns.
+</p>
+</div>
+<div class="section">
+<h2 id="awareness">Crime Awareness</h2>
+<p><b>Common Crimes:</b></p>
+<ul>
+<li>Phone Scams</li>
+<li>Identity Theft</li>
+<li>ATM Card Fraud</li>
+<li>Online Shopping Fraud</li>
+<li>Pickpocketing</li>
+</ul>
+<p>
+
+<small>Awareness is the first step towards crime prevention.</small>
+</p>
+</div>
+<div class="section">
+<h2 id="tips">Safety Tips</h2>
+<ol>
+<li>Never share your OTP or banking details.</li>
+<li>Use strong passwords.</li>
+<li>Verify unknown callers before sharing information.</li>
+<li>Lock your home and vehicle properly.</li>
+<li>Report suspicious activities.</li>
+</ol>
+<p>
+<mark><b>Tip of the Week:</b></mark><br>
+Never click on unknown links received through SMS or email.
+</p>
+</div>
+<div class="section">
+<h2 id="campaigns">Crime Prevention Campaigns</h2>
+<table>
+<caption><b>Current Awareness Campaigns</b></caption>
+<tr>
+<th>Campaign</th>
+<th>Objective</th>
+</tr>
+<tr>
+<td>Stop Phone Scams</td>
+<td>Educate people about fake calls and OTP fraud.</td>
+</tr>
+<tr>
+<td>Safe Streets</td>
+<td>Promote neighbourhood safety.</td>
+</tr>
+<tr>
+<td>Think Before You Click</td>
+
+<td>Create awareness about online fraud.</td>
+</tr>
+</table>
+</div>
+<div class="section">
+<h2 id="alerts">Public Alerts</h2>
+<p>
+<strong>Latest Alert:</strong><br>
+Fraudsters are pretending to be bank officials and asking for OTPs.
+<mark>Never share confidential information over phone calls.</mark>
+</p>
+</div>
+<div class="section">
+<h2 id="risk">Crime Risk Meter</h2>
+<table>
+<caption><b>Common Crime Risk Levels</b></caption>
+<tr>
+<th>Crime Type</th>
+<th>Risk Level</th>
+</tr>
+<tr>
+<td>Phone Scam</td>
+<td>High</td>
+</tr>
+<tr>
+<td>Identity Theft</td>
+<td>Medium</td>
+</tr>
+<tr>
+<td>ATM Fraud</td>
+<td>High</td>
+</tr>
+<tr>
+<td>Pickpocketing</td>
+<td>Medium</td>
+
+</tr>
+</table>
+</div>
+<div class="section">
+<h2>Myth vs Fact</h2>
+<table>
+<tr>
+<th>Myth</th>
+<th>Fact</th>
+</tr>
+<tr>
+<td>Only elderly people become scam victims.</td>
+<td>Anyone can become a victim if they are not careful.</td>
+</tr>
+<tr>
+<td>Sharing an OTP is safe if the caller sounds genuine.</td>
+<td>Never share your OTP with anyone.</td>
+</tr>
+</table>
+</div>
+<div class="section">
+<h2>Citizen Safety Pledge</h2>
+<p>
+<em>
+I pledge to stay alert, protect my personal information,
+report suspicious activities and help build a safer community.
+</em>
+</p>
+</div>
+<div class="section">
+<h2 id="faq">Frequently Asked Questions</h2>
+<p><b>1. What should I do if I receive a suspicious phone call?</b></p>
+<p>Disconnect the call and never share personal information.</p>
+<p><b>2. Why is crime awareness important?</b></p>
+<p>It helps people identify risks and avoid becoming victims.</p>
+
+<p><b>3. Who should I contact during an emergency?</b></p>
+<p>Call the emergency numbers listed below.</p>
+</div>
+<div class="section">
+<h2>Emergency Contacts</h2>
+<table>
+<tr>
+<th>Service</th>
+<th>Number</th>
+</tr>
+<tr>
+<td>Police</td>
+<td>112</td>
+</tr>
+<tr>
+<td>Cyber Crime Helpline</td>
+<td>1930</td>
+</tr>
+<tr>
+<td>Women Helpline</td>
+<td>1091</td>
+</tr>
+</table>
+</div>
+<div class="section text-center" id="contact">
+<h3>Contact Us</h3>
+<p>Phone: +91 98765xxxxx</p>
+<p>Address: Criminal Intelligence Division, IIIS</p>
+<button class="btn btn-danger">Report an Issue</button>
+</div>
+</div>
+</body>
+</html>
